@@ -26,3 +26,6 @@ Perfect project for **ASIC/FPGA verification roles** and **VLSI frontend intervi
 | `ALMOST`    | 2       | Threshold for almost flags      |
 
 ## File Structure
+
+## EDA Playground link
+https://www.edaplayground.com/x/9e9a
