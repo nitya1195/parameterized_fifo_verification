@@ -29,3 +29,20 @@ Perfect project for **ASIC/FPGA verification roles** and **VLSI frontend intervi
 
 ## EDA Playground link
 https://www.edaplayground.com/x/9e9a
+
+# Parameterized Synchronous FIFO (Verilog) | 100% Functional Coverage
+
+100% Verified 8×8 Synchronous FIFO with almost_full/empty flags  
+**100% Count & Status Coverage | Zero Errors | Perfect Waveforms**
+
+### Features
+- Fully parameterized (DEPTH, WIDTH, ALMOST)
+- Overflow & underflow protection
+- Standard flags: full, empty, almost_full, almost_empty
+- 100% functional coverage (all count values 0–8 + all 4 status flags hit)
+- Clean, synthesizable RTL + professional testbench
+
+### Parameters
+- WIDTH = 8 | DEPTH = 8 | ALMOST = 2
+
+### Coverage Achieved
